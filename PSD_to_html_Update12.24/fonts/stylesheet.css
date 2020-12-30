@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Lato-Italic';
+    src: url('Lato-Italic.eot');
+    src: url('Lato-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lato-Italic.woff2') format('woff2'),
+        url('Lato-Italic.woff') format('woff'),
+        url('Lato-Italic.ttf') format('truetype'),
+        url('Lato-Italic.svg#Lato-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url('Lato-Regular.eot');
+    src: url('Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Lato-Regular.woff2') format('woff2'),
+        url('Lato-Regular.woff') format('woff'),
+        url('Lato-Regular.ttf') format('truetype'),
+        url('Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('Montserrat-Bold.eot');
+    src: url('Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Bold.woff2') format('woff2'),
+        url('Montserrat-Bold.woff') format('woff'),
+        url('Montserrat-Bold.ttf') format('truetype'),
+        url('Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('Montserrat-Regular.eot');
+    src: url('Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat-Regular.woff') format('woff'),
+        url('Montserrat-Regular.ttf') format('truetype'),
+        url('Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('Poppins-Bold.eot');
+    src: url('Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-Bold.woff2') format('woff2'),
+        url('Poppins-Bold.woff') format('woff'),
+        url('Poppins-Bold.ttf') format('truetype'),
+        url('Poppins-Bold.svg#Poppins-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('Poppins-Medium.eot');
+    src: url('Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-Medium.woff2') format('woff2'),
+        url('Poppins-Medium.woff') format('woff'),
+        url('Poppins-Medium.ttf') format('truetype'),
+        url('Poppins-Medium.svg#Poppins-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('Poppins-Light.eot');
+    src: url('Poppins-Light.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-Light.woff2') format('woff2'),
+        url('Poppins-Light.woff') format('woff'),
+        url('Poppins-Light.ttf') format('truetype'),
+        url('Poppins-Light.svg#Poppins-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('Poppins-Regular.eot');
+    src: url('Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-Regular.woff2') format('woff2'),
+        url('Poppins-Regular.woff') format('woff'),
+        url('Poppins-Regular.ttf') format('truetype'),
+        url('Poppins-Regular.svg#Poppins-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Myriad Hebrew-Bold';
+    src: url('MyriadHebrew-Bold.eot');
+    src: url('MyriadHebrew-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MyriadHebrew-Bold.woff2') format('woff2'),
+        url('MyriadHebrew-Bold.woff') format('woff'),
+        url('MyriadHebrew-Bold.ttf') format('truetype'),
+        url('MyriadHebrew-Bold.svg#MyriadHebrew-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
