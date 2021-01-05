@@ -11,3 +11,4 @@ psd file check for psd file
 |
 |
 Update- -Responsive for 600px, 768px, 960px, 1170px; -Pixel Perfect, -Font Add
+xNot responsive for small and extra small device which screen size under 560px;
